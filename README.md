@@ -1,1 +1,1 @@
-# mari_proj22
+# project-C22-template
